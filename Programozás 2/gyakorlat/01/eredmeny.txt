@@ -1,0 +1,6 @@
+          Szakitas:	Lokes:	Nev:		Rajtszam:	Suly:	Osszesitett: 
+                 172	223	 Nagy Attila		68	100	395
+                 148	286	 Kis Lajos		26	100	434
+                 154	230	 Kerekes Elek		71	100	384
+                 169	216	 Papp Zsolt		18	100	385
+                 195	221	 Varga Csaba		16	100	416
