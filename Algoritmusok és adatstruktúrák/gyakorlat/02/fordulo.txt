@@ -1,0 +1,6 @@
+2 3 FTC Vasas
+1 1 Újpest Honvéd
+4 1 Vidi Paks
+3 2 Haladás DVTK
+0 0 DVSC Sopron
+3 5 Békéscs Siófok
